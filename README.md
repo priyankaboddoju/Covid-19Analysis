@@ -31,8 +31,3 @@ The goal of this project is to provide an automated and scalable solution for an
 5. **Scalability & Performance**  
    - Optimized the pipeline to handle large volumes of data, making it capable of processing future updates without performance degradation.
 
-## How to Use
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/Covid-19Analysis.git
-   cd Covid-19Analysis
